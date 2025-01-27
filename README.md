@@ -28,18 +28,3 @@ The goal of this project is to provide a platform where:
 3. **Alumni** information is displayed to show the success stories of previous students.
 4. **Current students** can stay updated with programs and additional resources.
 
----
-
-## 🚀 Live Demo  
-(Provide a link to the live version of the website, if hosted online)  
-[Live Demo](#)  
-
----
-
-## 🛠️ Installation and Setup  
-Follow the steps below to run the project locally on your machine:
-
-1. **Clone the Repository**  
-   Open a terminal and run the following command:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
